@@ -30,13 +30,13 @@ Chaque joueur dispose d'un nombre de cellules vivantes à répartir sur une port
 
 La résolution des itérations suit les règles du GoL, cependant certains cas nécessitent de nouvelles règles:
 
-    - Une cellule vivante ne peux changer de couleur
+- Une cellule vivante ne peux changer de couleur
 
-    - On compte les voisins vivants indépendement de leur joueur pour savoir son prochain état
+- On compte les voisins vivants indépendement de leur joueur pour savoir son prochain état
     
-    - Lorsqu'une cellule apparait, elle appartient au joueur qui a le plus de voisins lui appartenant
+- Lorsqu'une cellule apparait, elle appartient au joueur qui a le plus de voisins lui appartenant
     
-    - Si lors d'une naissance, il y a égalité de nombre de voisin, la cellule sera dites Neutre, et n'appartiendra à personne
+- Si lors d'une naissance, il y a égalité de nombre de voisin, la cellule sera dites Neutre, et n'appartiendra à personne
 
 ## Condition de victoire
 
