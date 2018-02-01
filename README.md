@@ -21,5 +21,6 @@ _Descriptif complet ici: https://fr.wikipedia.org/wiki/Jeu_de_la_vie _
 - Implémentez les règles du GoL en TDD, en privilégiant les baby-steps
 
 tips: La ganularité de la baby step se situe "en dessous" de celle de la règle sur une grille
+
 tips: D'autres règles arriveront, pensez à avoir un code soupple et évolutif
 
